@@ -4,3 +4,4 @@ target
 Cargo.lock
 *.iml
 .vscodeprocess-repo.log
+process-repo.log
